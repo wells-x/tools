@@ -88,9 +88,11 @@ git commit -m 'update .gitignore'
 ```
 
 ## git 冲突
+```
 git rebase -X theirs  
 // -X 接收合并的其中一个分支
 // -X  -- pass merge-strategy-specific option to merge strategy
+```
 
 ## git config 修改配置
 
